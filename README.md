@@ -1,7 +1,6 @@
 # traveller
 Estudos com Heroku
 
-# Gulliver Traveller
 
 Para rodar a API:
 
